@@ -1,0 +1,10 @@
+Line 118: Property ItemData in CmbWeather had an invalid file reference.
+Line 120: Property List in CmbWeather had an invalid file reference.
+Line 153: Property ItemData in cmbSound had an invalid file reference.
+Line 155: Property List in cmbSound had an invalid file reference.
+Line 187: Property ItemData in cmbPanorama had an invalid file reference.
+Line 189: Property List in cmbPanorama had an invalid file reference.
+Line 416: Property ItemData in cmbDayNight had an invalid file reference.
+Line 418: Property List in cmbDayNight had an invalid file reference.
+Line 426: Property ItemData in cmbMoral had an invalid file reference.
+Line 428: Property List in cmbMoral had an invalid file reference.
